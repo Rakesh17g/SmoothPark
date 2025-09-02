@@ -1,9 +1,9 @@
-# 🚗 ParkIn: An AI-Powered Smart Parking System
+# 🚗 SmoothPark: An AI-Powered Parking spot predictor
 
 <div align="center">
   <img src="https://github.com/SouravUpadhyay7/ParkingApp/blob/main/Images/logo.jpg" alt="ParkIn Logo" width="300"/>
   <br>
-  <em>A Project by the Department of Computer Science and Engineering (Artificial Intelligence and Machine Learning)</em>
+  <em>A Project by VIT students (Artificial Intelligence and Machine Learning)</em>
 </div>
 
 ## 📋 Table of Contents
@@ -20,7 +20,7 @@
 
 ## 🚀 Introduction
 
-ParkIn is a cross-platform smart parking application that enables users to find, book, and manage parking spaces in real-time while allowing property owners to monetize their vacant spaces. The application is designed with intelligent features such as AI-driven recommendations, eco-friendly UI, and future integration with IoT sensors and ANPR systems.
+A sleek and user-friendly profile interface for SmoothPark—a platform offering decentralized parking solutions. This page enables users to manage account details, vehicles, payment methods, and track usage history.
 
 With increasing urbanization, parking space management has become a growing concern in smart cities. This project addresses the pressing need for a scalable, intelligent, and user-friendly smart parking system, aligning with modern urban planning goals and sustainability initiatives.
 
@@ -63,7 +63,7 @@ ParkIn uses a layered architecture comprising:
 - **AI Layer:** Recommender system (Python Flask API)
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x300" alt="ParkIn Architecture" width="600"/>
+  <img src="https://via.placeholder.com/600x300" alt="SmoothPark Architecture" width="600"/>
 </div>
 
 ## 💻 Implementation
@@ -119,52 +119,18 @@ ParkIn uses a layered architecture comprising:
 
 | Name | Roll | LinkedIn |
 |------|------|----------|
-| **Abhinav** (Team Lead) | 12130823001 | [LinkedIn](https://www.linkedin.com/in/abhinavbit/) |
-| **Sourav Upadhyay** | 12130823044 | [LinkedIn](https://www.linkedin.com/in/sourav-upadhyay-00a975276/) |
-| **Nishi Kumari** | 12130824047 | [LinkedIn](https://www.linkedin.com/in/nishi-kumari-184704277/) |
-| **S.K. Arin** | 12130823043 | [LinkedIn](https://www.linkedin.com/in/sk-arin-1a7b37278/) |
+| **Rakesh G** | 24BEC0242 | [LinkedIn](https://www.linkedin.com/in/rakesh-g-261666350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
+| **Nithin Raj I** | 24BME0660 | [LinkedIn](https://www.linkedin.com/in/nithin-raj-i-0ba174333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+| **Sanjay Guptha R S** | 12130824047 | [LinkedIn]() |
 
-*Department of Computer Science and Engineering (AI & ML)*  
-*Bengal Institute of Technology, Kolkata, West Bengal, India*
 
 ## ⚠️ Disclaimer
 
 **IMPORTANT:** For presentation and demonstration purposes, the current version of this project uses only HTML, CSS, Python and JavaScript. The fully functional mobile application with React Native and complete backend implementation is currently under development.
 
-## 🛠️ Installation
-
-```bash
-# Clone the repository
-https://github.com/SouravUpadhyay7/ParkingApp
-
-# Navigate to the project directory
-cd parkin
-
-# For the demo version
-# Simply open index.html in your browser
-
-# For future full implementation
-# npm install
-# npm start
-```
-
-## 📚 References
-
-1. Z. Pala and N. Inanc, "Smart parking applications using RFID technology," in 1st Annual Eurasia RFID Conference, September 2007.
-2. Wand and W. He, "A reservation based smart parking system," in 1st Int'l Workshop on Cyber-Physical Networking Systems, April 2011.
-3. N.H.H.M. Hanif, M.H. Badiozaman and H. Daud, "Smart parking reservation system using short message services (SMS)," in 2010 International Conference on Intelligent and Advanced Systems (ICIAS), June 2010.
-4. S. Lee, D. Lee, and A. Park, "Smart Parking System Using RFID and Wireless Sensor Network," in ICT Convergence, October 2012.
-5. H. Zhang and C. Lin, "Vehicle Parking Management using IoT and Cloud Computing," Journal of Advanced Transportation, 2018.
-6. SpotHero Official App – https://spothero.com
-7. Firebase Documentation – https://firebase.google.com/docs
-8. React Native Docs – https://reactnative.dev/docs/getting-started
-9. S. Mathur, T. Jin, N. Kasturirangan, W. Xue, M. Gruteser and W. Trappe, "Parknet: drive by sensing of road-side parking statistics" in Proceedings of the Eighth International Conference on Mobile Systems, applications and services (MobiSys‟10), ACM New York, June 2010
-10. M. H. Gharavol, M. Pourtakdoust, and M. Zamani, "A Cloud-Based Parking Service System," in International Journal of Smart Grid and Clean Energy, 2015.
-
----
 
 <div align="center">
-  <p>© 2025 ParkIn</p>
+  <p>© 2025 SmoothPark</p>
   <p>Made with ❤️ by CSE (AI & ML) Students at Bengal Institute of Technology</p>
   
   <br>
@@ -181,7 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2025 ParkIn
+Copyright (c) 2025 Smoothpark
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
