@@ -109,7 +109,7 @@ ParkIn uses a layered architecture comprising:
   <img src="./Images/map view.png" alt="Logo Screenshot" width="300"/>
   <img src="./Images/parking list - user.png" alt="Logo Screenshot" width="300"/>
   <img src="./Images/user profile.png" alt="Logo Screenshot" width="300"/>
-  <img src="./Images/list parking - customers" alt="Logo Screenshot" width="300"/>
+  <img src="./Images/list parking - customers.png" alt="Logo Screenshot" width="300"/>
 </div>
 
 ## 👥 Team Members
