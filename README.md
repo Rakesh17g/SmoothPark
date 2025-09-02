@@ -1,7 +1,7 @@
 # 🚗 SmoothPark: An AI-Powered Parking spot predictor
 
 <div align="center">
-  <img src="https://github.com/SouravUpadhyay7/ParkingApp/blob/main/Images/logo.jpg" alt="ParkIn Logo" width="300"/>
+  ![Screenshot](logo.png)
   <br>
   <em>A Project by VIT students (Artificial Intelligence and Machine Learning)</em>
 </div>
