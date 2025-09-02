@@ -61,10 +61,6 @@ ParkIn uses a layered architecture comprising:
 - **Data Layer:** Firebase for authentication, MongoDB for storage
 - **AI Layer:** Recommender system (Python Flask API)
 
-<div align="center">
-  <img src="https://via.placeholder.com/600x300" alt="SmoothPark Architecture" width="600"/>
-</div>
-
 ## 💻 Implementation
 
 - Developed using **React Native** and **TailwindCSS** for modern UI
@@ -107,11 +103,11 @@ ParkIn uses a layered architecture comprising:
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://github.com/SouravUpadhyay7/ParkingApp/blob/main/Images/home%20page.png" alt="Login Screen" width="500"/>
-  <img src="https://github.com/SouravUpadhyay7/ParkingApp/blob/main/Images/map%20view.png" alt="Map View" width="500"/>
-  <img src="https://github.com/SouravUpadhyay7/ParkingApp/blob/main/Images/list%20parking%20-%20customers.png" alt="Booking Screen" width="500"/>
-  <img src="https://github.com/SouravUpadhyay7/ParkingApp/blob/main/Images/parking%20list%20-%20user.png" alt = "user parking" width="500"/>
-  <img src="https://github.com/SouravUpadhyay7/ParkingApp/blob/main/Images/user%20profile.png" alt = "user Profile" width="500"/>
+  <img src="./Images/home page.png" alt="Logo Screenshot" width="300"/>
+  <img src="./Images/map view.png" alt="Logo Screenshot" width="300"/>
+  <img src="./Images/parking list - user.png" alt="Logo Screenshot" width="300"/>
+  <img src="./Images/user profile.png" alt="Logo Screenshot" width="300"/>
+  <img src="./Images/list parking - customers" alt="Logo Screenshot" width="300"/>
 </div>
 
 ## 👥 Team Members
@@ -120,7 +116,7 @@ ParkIn uses a layered architecture comprising:
 |------|------|----------|
 | **Rakesh G** | 24BEC0242 | [LinkedIn](https://www.linkedin.com/in/rakesh-g-261666350?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) |
 | **Nithin Raj I** | 24BME0660 | [LinkedIn](https://www.linkedin.com/in/nithin-raj-i-0ba174333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
-| **Sanjay Guptha R S** | 12130824047 | [LinkedIn]() |
+| **Sanjay Guptha R S** | 24MIS0461 | [LinkedIn](https://www.linkedin.com/in/sanjay-guptha-a705b8378?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
 
 
 ## ⚠️ Disclaimer
@@ -130,7 +126,7 @@ ParkIn uses a layered architecture comprising:
 
 <div align="center">
   <p>© 2025 SmoothPark</p>
-  <p>Made with ❤️ by CSE (AI & ML) Students at Bengal Institute of Technology</p>
+  <p>Made by Students at Vellore Institute of Technology in Domain of AI and ML</p>
   
   <br>
   
