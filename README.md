@@ -1,6 +1,6 @@
 # 🚗 SmoothPark: An AI-Powered Parking spot predictor
 
-![logo Screenshot](.Images/logo.jpeg)
+![logo Screenshot](./Images/logo.jpeg)
   <br>
   <em>A Project by VIT students (Artificial Intelligence and Machine Learning)</em>
 </div>
